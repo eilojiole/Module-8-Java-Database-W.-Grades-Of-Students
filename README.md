@@ -1,1 +1,3 @@
 # Module-8-Java-Database-W.-Grades-Of-Students
+
+Hello everyone, my name is Uchenna and this repository was originally for COP 3330C CRN 32555 but I am currently submitting it for an assignment in CEN 3024C CRN 14835. This project is a database with a collection of student names, their ages, and their grades in the class. The project will produce the following, student's name, their rank, along with their ages and grades in the course. Some of the most important programing concepts and tools that were employed with this assisgnment would be the use of creating a database along with knowing how to modify and edit the database. The expected outputs and inputs of this application should be the end result with the student's names, rank, ages, and gradeds. 
